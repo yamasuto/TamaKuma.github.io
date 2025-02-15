@@ -2,6 +2,8 @@
 
 [多摩クマ/Tama kuma](https://store.line.me/stickershop/author/1607061/ja) stickers descriptions
 
+[Web site](https://yamasuto.github.io/TamaKuma.github.io/)
+
 ## License
 
 <!-- 
