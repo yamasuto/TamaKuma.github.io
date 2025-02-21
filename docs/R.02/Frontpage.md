@@ -1,5 +1,7 @@
 # [多摩クマ R.02.1 / TAMA-KUMA R0.2.1]
 
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ![](images\00_IMG_4337_main.png)
 
 大盛,はて？,おかわり,もう食べられない,うまい,おいしい,ナイスチョット,うまいですね,時間調整,You are welcome, My pleasure,庚申待, سَلَام （サラーム）等よく使う言葉のスタンプ
@@ -28,3 +30,7 @@
 |わかんないことはAIに優しく教えてもらいたい|お土産うれしいです|（他のスタンプと組み合わせて使う予定）|みんな忘れちゃおーっと|
 | ![](images\37_IMG_4336_食べ過ぎないこと.png)| ![](images\38_IMG_4341_あとでもいいよね.png)| ![](images\39_IMG_4337_think_positive.png)| ![](images\40_IMG_4349_ないものはない.png)|
 |私をコントロール、きっと悟りに近づける|今しなくていいことは今しない、今日しなければならない仕事も明日にまわしちゃえ|Jacques Attaliが述べている、**私**が参加すれば**きっとうまくいく**|ないことを証明するのは難しいことが多いけど、証明なしでも言い切っちゃう強さを持ちたいな⇒いらないか|
+
+---
+
+多摩クマ © 2025 by YAMA SUTO is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
