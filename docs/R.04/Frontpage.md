@@ -1,8 +1,9 @@
 ---
+title: 多摩クマ R.04 / TAMA-KUMA R0.4
 layout: default
 ---
 
-# [多摩クマ R.04 / TAMA-KUMA R0.4]
+**NEW1**
 
 ![](images\00_IMG_4336丸_main.png)
 

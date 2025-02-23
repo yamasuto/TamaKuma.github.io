@@ -1,8 +1,9 @@
 ---
+title: 多摩クマ Emoji.01 / TAMA-KUMA Emoji.01
 layout: default
 ---
 
-# [多摩クマ Emoji.01 / TAMA-KUMA Emoji.01]
+**NEW1**
 
 ![Tag](images/IMG_4355_Apple_tab.png)
 
