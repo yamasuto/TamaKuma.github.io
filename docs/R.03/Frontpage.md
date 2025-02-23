@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [多摩クマ R.03.1 / TAMA-KUMA R0.3.1]
 
 ![](images\00_IMG_4349_Main.png)
