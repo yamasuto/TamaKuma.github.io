@@ -3,7 +3,7 @@ title: 多摩クマ R.04 / TAMA-KUMA R0.4
 layout: default
 ---
 
-**NEW1**
+**NEW2**
 
 ![](images\00_IMG_4336丸_main.png)
 

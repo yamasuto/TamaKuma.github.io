@@ -3,7 +3,7 @@ title: 多摩クマ / Tama kuma スタンプと絵文字
 layout: default
 ---
 
-**NEW1**
+**NEW2**
 
 ![多摩クマ](.\64.png)
 
@@ -15,7 +15,7 @@ layout: default
 
 [LINE STOREのページ](https://store.line.me/stickershop/product/30005709/ja)
 
-[R.02の説明](R.02\Frontpage.md)
+[R.02の説明](R.02)
 
 ## R.03
 
