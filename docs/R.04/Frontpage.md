@@ -1,7 +1,5 @@
 # [多摩クマ R.04 / TAMA-KUMA R0.4]
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ![](images\00_IMG_4336丸_main.png)
 
 素晴らしい/Wonderfulに似ている英単語と肯定的な言葉のスタンプ
@@ -30,7 +28,3 @@
 | 気の向くまま自由に振舞うこと 常にそうありたいな | ごほうび欲しいな | 困ったらうふふと言ってその場をのりきれ！ | ラグビー観戦中によく言ってしまう |
 | ![](images\37_PXL_20240628_100008457_他にもあるよ.png) | ![](images\38_PXL_20240628_100008457_カンゲキ.png) | ![](images\39_PXL_20240628_100008457_awesome.png) | ![](images\40_PXL_20240628_100008457_okay.png) |
 | 二択とか選択問題に対して常に他にあるはずという姿勢でのぞみたい | 老いると感激すること多いな | awesome | Okay |
-
----
-
-多摩クマ © 2025 by YAMA SUTO is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International

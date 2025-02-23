@@ -1,7 +1,5 @@
 # [多摩クマ R.03.1 / TAMA-KUMA R0.3.1]
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ![](images\00_IMG_4349_Main.png)
 
 ありがとう、おめでとう、楽しそう、賛成、ワンダフル、助かる、恐れ入ります、安心した、大丈夫、心配ない等よく使う言葉と忘れたくない言葉（雅味、金言在心など）のスタンプ
@@ -30,7 +28,3 @@
 |毎日スクワットを1分|マンスプレイニングは「知識をひけらかし、女性に無知な聞き役を求める行為」気を付ける・改める|痛み入ること多いなぁ|大丈夫、大丈夫|
 | ![](images\37_PXL_20240714_020626607_x_安心した.png)| ![](images\38_PXL_20240714_020626607_x_心配ない.png)| ![](images\39_taiyaki_3700x3200_金言在心.png)| ![](images\40_taiyaki_3700x3200_雅味.png)|
 |心やすらかでありたい|心配しすぎないように努力しております|**金言在心**<br/>日美の書初めでヒコロヒーが書いていた<br/>いたく感心しました|「上品で味わい深い様子」「風流で趣 (おもむき)のある様子」食べ物のことだけじゃないですね|
-
----
-
-多摩クマ © 2025 by YAMA SUTO is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
