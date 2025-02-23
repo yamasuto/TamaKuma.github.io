@@ -3,7 +3,7 @@ title: 多摩クマ / Tama kuma スタンプと絵文字
 layout: default
 ---
 
-**NEW3**
+**NEW4**
 
 ![多摩クマ](.\64.png)
 
