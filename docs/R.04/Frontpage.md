@@ -4,7 +4,7 @@ layout: default
 permalink: /R.04/
 ---
 
-**NEW5**
+**NEW6**
 
 ![](images\00_IMG_4336丸_main.png)
 
