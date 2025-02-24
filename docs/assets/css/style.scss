@@ -6,7 +6,17 @@ table{
     border-collapse: collapse;
 }
 
-table th, table td {
+table th {
 	border: solid 1px black;
 	/*実線 1px 黒*/
   }
+
+table td {
+	border: solid 1px black;
+	/*実線 1px 黒*/
+	text-align: center;
+  }
+
+table tr:nth-child(odd) {
+	background: #e9faf9;
+}
