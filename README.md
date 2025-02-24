@@ -12,3 +12,7 @@ LICENSE CHOOSER
 -->
 
     多摩クマ © 2025 by YAMA SUTO is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+## Reference
+
+- [公式テーマを利用してJekyllでGitHub Pagesを作ってみた](https://zenn.dev/ykmkn/articles/c0888431d39bcc)

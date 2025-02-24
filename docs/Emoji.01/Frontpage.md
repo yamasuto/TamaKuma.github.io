@@ -1,6 +1,8 @@
-# [多摩クマ Emoji.01 / TAMA-KUMA Emoji.01]
-
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+---
+title: 多摩クマ Emoji.01 / TAMA-KUMA Emoji.01
+layout: default
+permalink: /Emoji.01/
+---
 
 ![Tag](images/IMG_4355_Apple_tab.png)
 
@@ -32,7 +34,3 @@
 |22|NG|![NG](images/PXL_20240628_100118865_pink_ng.png)|
 |23|ナイス|![ナイス](images/PXL_20240628_100118865_pink_ナイス.png)|
 |24|そっれー|![そっれー](images/IMG_4348_そっれー.png)|
-
----
-
-多摩クマ © 2025 by YAMA SUTO is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
