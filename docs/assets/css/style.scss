@@ -2,24 +2,11 @@
 ---
 
 table{
-    width: 80%;
+    width: 70%;/*親要素に対して*/
     border-collapse: collapse;
 }
 
-table tr{
-    border-bottom: solid 2px white;
-}
-
-table tr:last-child{
-	border-bottom: none;
-}
-
-table th{
-	position: relative;
-	text-align: left;
-	width: 30%;
-	background-color: #b6b6b6;
-	color: white;
-	text-align: center;
-	padding: 10px 0;
-}
+table th, table td {
+	border: solid 1px black;
+	/*実線 1px 黒*/
+  }
