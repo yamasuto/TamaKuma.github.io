@@ -4,8 +4,6 @@ layout: default
 permalink: /Emoji.01/
 ---
 
-**NEW6**
-
 ![Tag](images/IMG_4355_Apple_tab.png)
 
 ## 説明

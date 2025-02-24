@@ -4,8 +4,6 @@ layout: default
 permalink: /R.04/
 ---
 
-**NEW6**
-
 ![](images\00_IMG_4336丸_main.png)
 
 素晴らしい/Wonderfulに似ている英単語と肯定的な言葉のスタンプ

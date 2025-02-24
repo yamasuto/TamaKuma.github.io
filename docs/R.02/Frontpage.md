@@ -4,8 +4,6 @@ layout: default
 permalink: /R.02/
 ---
 
-**NEW6**
-
 ![](images\00_IMG_4337_main.png)
 
 大盛,はて？,おかわり,もう食べられない,うまい,おいしい,ナイスチョット,うまいですね,時間調整,You are welcome, My pleasure,庚申待, سَلَام （サラーム）等よく使う言葉のスタンプ
