@@ -1,4 +1,4 @@
---- --- table {
+table {
 	width: 95%;
 	/*親要素に対して*/
 	border-collapse: collapse;
@@ -15,6 +15,6 @@ table td {
 	text-align: center;
 }
 
-table tr:nth-child(even) {
-	background: lightgray;
+table tr:nth-child(odd) {
+	background: #e9faf9;
 }
