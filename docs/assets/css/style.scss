@@ -19,7 +19,7 @@ h1::before {
 h2::before {
   counter-increment: sub-chapter;
   /* content: counter(chapter) "-" counter(sub-chapter) ". ";*/
-  content: counter(sub-chapter) ". ";
+  content: counter(sub-chapter) ") ";
 }
 
 /*
