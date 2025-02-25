@@ -13,16 +13,21 @@ h2 {
 
 h1::before {
   counter-increment: chapter;
-  content: counter(chapter) ". ";
+  /*content: counter(chapter) ". ";*/
 }
+
 h2::before {
   counter-increment: sub-chapter;
-  content: counter(chapter) "-" counter(sub-chapter) ". ";
+  /* content: counter(chapter) "-" counter(sub-chapter) ". ";*/
+  content: counter(sub-chapter) ". ";
 }
+
+/*
 h3::before {
   counter-increment: section;
   content: "(" counter(section) ") ";
 }
+*/
 
 table {
 	width: 95%;
