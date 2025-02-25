@@ -1,6 +1,7 @@
 ---
-title: 多摩クマ / Tama kuma スタンプと絵文字
+title: 多摩クマ / TAMA-KUMA スタンプと絵文字
 layout: default
+permalink: /HOME/
 ---
 
 ![多摩クマ](.\64.png)
