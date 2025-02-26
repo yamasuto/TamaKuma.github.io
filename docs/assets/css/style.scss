@@ -46,11 +46,6 @@ table td {
 	text-align: center;
 }
 
-/* 最初の行（通常ヘッダー行として使われる）の表示を無効にする */
-table tr:first-child {
-  display: none;
-}
-
 table tr:nth-child(even) {
 	background: #e9faf9;
 }
