@@ -5,6 +5,16 @@ layout: default
 
 ![多摩クマ](.\64.png)
 
+## R.01
+
+![R.01 main](R.01\images\00_PXL_20240628_100008457_main.png)
+
+よく使いそうな言葉のスタンプ
+
+[LINE STOREのページ](https://store.line.me/stickershop/product/30049598/ja)
+
+[R.01の説明](R.01)
+
 ## R.02
 
 ![R.02 main](R.02\images\00_IMG_4337_main.png)
