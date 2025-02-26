@@ -35,6 +35,11 @@ table {
 	border-collapse: collapse;
 }
 
+table thead {
+  /*ヘッダー行を表示しない、番号だけだから*/
+  display: none;
+}
+
 table th {
 	border: solid 1px black;
 	/*実線 1px 黒*/
