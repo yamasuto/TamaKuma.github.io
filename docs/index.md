@@ -31,11 +31,24 @@ layout: default
 
 素晴らしい/Wonderfulに似ている英単語と肯定的な言葉のスタンプ
 
+以下近日中に改める予定
+
+       gorgeous
+       lovely
+       superb
+       amazing
+       impressive
+       incredible
+       terrific
+       splendid
+
 [LINE STOREのページ](https://store.line.me/stickershop/product/29480228/ja)
 
 [R.04の説明](R.04)
 
 ## Emoji.01
+
+![Emoji.01 Tab](Emoji.01\images\IMG_4355_Apple_tab.png)
 
 よく使うあいさつの絵文字
 
