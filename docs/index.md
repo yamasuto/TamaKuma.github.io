@@ -35,6 +35,16 @@ layout: default
 
 [R.03の説明](R.03)
 
+## R.04
+
+![R.04 main](R.04\images\00_IMG_4336丸_main.png)
+
+素晴らしい/Wonderfulに似ている英単語と肯定的な言葉のスタンプ
+
+[LINE STOREのページ](https://store.line.me/stickershop/product/30067428/ja)
+
+[R.04の説明](R.04)
+
 ## Emoji.01
 
 ![Emoji.01 Tab](Emoji.01\images\IMG_4355_Apple_tab.png)
