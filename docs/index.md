@@ -5,6 +5,8 @@ layout: default
 
 ![多摩クマ](.\64.png)
 
+![Last Commit](https://img.shields.io/github/last-commit/yamasuto/TamaKuma.github.io?style=flat-square)
+
 ## R.01
 
 ![R.01 main](R.01\images\00_PXL_20240628_100008457_main.png)
