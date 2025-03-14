@@ -53,10 +53,8 @@ layout: default
 
 よく使うあいさつの絵文字
 
-小さくて老眼だとよくわからいから、近日中に改める予定
+リンゴ、おめでタイ、あっソーダ、Yeah、NICE、トホホ、ハッスル、Love、PEACE、ひげ、VIVA、うまい、ふわり、はて、たすかる、なるほど、ナイス など
 
-リンゴ、おめでタイ、あっソーダ、Yeah、NICE、GOOD、トホホ、ハッスル、Love、PEACE、ひげ、VIVA、うまい、ふわり、はて、たすかる、なるほど、ナイス、そっれ
-
-[LINE STOREのページ](https://store.line.me/emojishop/product/6751628729e27704ed44582e/ja)
+[LINE STOREのページ](https://store.line.me/emojishop/product/67d3cbb06d0b246b2d83a722/ja)
 
 [Emoji.01の説明](Emoji.01)

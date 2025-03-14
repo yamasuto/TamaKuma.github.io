@@ -1,36 +1,30 @@
 ---
-title: 多摩クマ Emoji.01 / TAMA-KUMA Emoji.01
+title: 多摩クマ Emoji.01.1 / TAMA-KUMA Emoji.01.1
 layout: default
 permalink: /Emoji.01/
 ---
 
-![Tag](images/IMG_4355_Apple_tab.png)
+![](images\00_tab_PXL_20250218_223224922.png)
+
+よく使うあいさつの絵文字です リンゴありがとう, おめでタイ, あっソーダ, Yeah, トホホ, ハッスル, Love, PEACE, ひげ, VIVA, うまい, ふわり, はて, たすかる, ナイス, ...
 
 ## 説明
 
-|No|word|image|
-|-:|-|-|
-|1|リンゴありがとう|![林檎](images/IMG_4355_Apple.png)|
-|2|おめでタイ|![鯛](images/IMG_4350_taiyaki.png)|
-|3|あっソーダ|![クリームソーダ](images/PXL_20240623_052110621_creamsoda.png)|
-|4|Yeah!|![Yeah!](images/IMG_4348_yeah!.png)|
-|5|NICE|![NICE](images/PXL_20240628_100118865_pink_nice.png)|
-|6|GOOD|![GOOD](images/PXL_20240628_100118865_pink_good.png)|
-|7|CAD|![CAD](images/PXL_20231208_095949460_taiyaki_cad.png)|
-|8|トホホ|![トホホ](images/IMG_4336_とほほ.png)|
-|9|ハッスル|![ハッスル](images/IMG_4348_ハッスル.png)|
-|10|Love|![Love](images/IMG_4336_LOVE.png)|
-|11|PEACE|![PEACE](images/PXL_20240628_100118865_pink_peace.png)|
-|12|ひげ|![ひげ](images/IMG_4336_ひげ.png)|
-|13|VIVA|![VIVA](images/IMG_4348_viva.png)|
-|14|うまーい|![うまーい](images/IMG_4355_Apple_うまーい.png)|
-|15|ふわり|![ふわり](images/IMG_4336_ふわり.png)|
-|16|はて？|![はて？](images/IMG_4338_はて？.png)|
-|17|ありがとー|![ありがとー](images/IMG_4336_ありがとー.png)|
-|18|たすかる|![たすかる](images/IMG_4334_orange_たすかる.png)|
-|19|なるほど|![なるほど](images/IMG_4334_orange_なるほど.png)|
-|20|fine|![fine](images/IMG_4350_taiyaki_fine.png)|
-|21|OK|![OK](images/PXL_20240628_100118865_pink_OK.png)|
-|22|NG|![NG](images/PXL_20240628_100118865_pink_ng.png)|
-|23|ナイス|![ナイス](images/PXL_20240628_100118865_pink_ナイス.png)|
-|24|そっれー|![そっれー](images/IMG_4348_そっれー.png)|
+| 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| ![](images\01_りんごありがとう_IMG_4355_Apple.png)| ![](images\02_めでたい_IMG_4350_taiyaki.png)| ![](images\03_あっソーダ_PXL_20240623_052110621_クリームソーダ.png)| ![](images\04_YEAH_PXL_20240628_100118865_pink2.png)| ![](images\05_サンバ_PXL_20240628_100118865_pink2.png)|
+|りんごありがとう、とても美味しかった|めでたい・ありがたい・祝いたい|クリームソーダを飲んで思い出すことってある|ボブマーリーのようにイエーイって叫んでみたい|辛いことがあってもサンバを歌ってやり過ごしたい|
+| ![](images\06_Olé_PXL_20240628_100118865_pink2.png)| ![](images\07_ありがたい_IMG_4350_taiyaki.png)| ![](images\08_とほほ_IMG_4336.png)| ![](images\09_ハッスル_IMG_4348.png)| ![](images\10_LOVE_PXL_20240623_052110621_クリームソーダ.png)|
+|サンバでOlé|ありがたい・めでたい・祝いたい|トホホって思っても生きるのは初めてだから|ハッスルはナイス|想像ではクリームソーダが大好き、アイスクリームの中の小さい氷がアトラクティブ|
+| ![](images\11_ピース_PXL_20240628_100118865_pink.png)| ![](images\12_ひげ_IMG_4336.png)| ![](images\13_VIVA_IMG_4348.png)| ![](images\14_うまい_IMG_4355_Apple.png)| ![](images\15_ふわり_IMG_4336.png)|
+|何はなくとも平和 I need PEACE|ひげがのびてきた、長く考えすぎたからちょっと休憩しよう|Vivaはビバと訳したい|リンゴは美味しい|ふわりと湯の中に漂いたい|
+| ![](images\16_はて_IMG_4348.png)| ![](images\17_ありがとー_IMG_4336.png)| ![](images\18_たすかる__IMG_4334_orange.png)| ![](images\19_なるほど__IMG_4334_orange.png)| ![](images\20_甘い_IMG_4350_taiyaki.png)|
+|はて？のおかげではてと思うことが多くなったかも|ありがとうを多く使いたい|助かりました、ありがとう|なるほどね、でも因果律がないこともあるはずだ|タイ焼きは甘くて美味しいな|
+| ![](images\21_OK_PXL_20240628_100118865_pink.png)| ![](images\22_NG_PXL_20240628_100118865_pink.png)| ![](images\23_ナイス_IMG_4348.png)| ![](images\24_それー_IMG_4348.png)| ![](images\25_だね_IMG_4334_orange.png)|
+|OKay|Not Good|NICE|そっれー|賛成だね|
+| ![](images\26_ちっ_IMG_4336.png)| ![](images\27_Go_IMG_4336.png)| ![](images\28_うつつ_IMG_4336.png)| ![](images\29_笑_PXL_20250218_223224922.png)| ![](images\30_悲_PXL_20250218_223206634.png)|
+|ちっと思うこともあるけどね|Go 倒れるなら前向きに|うつつは現、現実のこと|（つくり）笑顔でのりきっちゃおう|悲しそうにしてのりきっちゃおう|
+| ![](images\31_おしい_PXL_20250218_223224922.png)| ![](images\32_yay_PXL_20250218_223206634.png)| ![](images\33_42_PXL_20250218_223206634.png)| ![](images\34_〇_PXL_20250218_223224922.png)| ![](images\35_×_PXL_20250218_223224922.png)|
+|おしい、so close|Yaaaaaaaaaaay!|究極の答え、あの国の人は気が利いた事言う|〇か×、以外にも答えはあるよ|〇か×、以外にも答えはあるよ|
+| ![](images\36_∵_PXL_20240628_100118865_pink.png)| ![](images\37_有_PXL_20250218_223201760.png)| ![](images\38_無_PXL_20250218_223201760.png)| ![](images\39_plain_PXL_20250218_223206634.png)| ![](images\40_plain_PXL_20240628_100118865_pink.png)|
+|∵常に答えなければならないなんて考えない|有ることが無い|無いことが有る|オレンジのクマ|ピンクのクマ|
