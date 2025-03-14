@@ -49,7 +49,7 @@ layout: default
 
 ## Emoji.01
 
-![Emoji.01 Tab](Emoji.01\images\IMG_4355_Apple_tab.png)
+![Emoji.01 Tab](Emoji.01\images\00_tab_PXL_20250218_223224922.png)
 
 よく使うあいさつの絵文字
 
