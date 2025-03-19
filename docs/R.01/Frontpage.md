@@ -15,7 +15,7 @@ permalink: /R.01/
 | ![](images\01_PXL_20250218_223224922_誕生日おめでとう.png)| ![](images\02_PXL_20231208_095949460_good.png)| ![](images\03_PXL_20240623_052110621_LOVE.png)| ![](images\04_PXL_20240628_095956204_nice.png)|
 |誕生日おめでとう<br/><br/>unbirthdayでも祝いたい|GOOD<br/><br/>タイ焼き is really GOOD|LOVE<br/><br/>I LOVE クリームソーダ|NICE<br/><br/>NICE クマ|
 | ![](images\05_IMG_4336_rogrer.png)| ![](images\06_PXL_20240628_100021899_おねがーい.png)| ![](images\07_PXL_20240628_100118865_yeah3.png)| ![](images\08_IMG_4347_めがねがない.png)|
-|Rogrer<br/><br/>拝承と承知しましたではやる気が伝わらないと思ったら**ラジャー**と言ってめんどくさいなぁと思われる|おねがーい<br/><br/>おねがーいとのばせば何とかなりそう|Yeah!<br/><br/>Yeaaah!といえばイエーイと答えるしかない|めがねがない<br/><br/>ないと思って頭にある時の衝撃を思え！メメントー・メガネー|
+|<ruby>Rogrer<rp>（</rp><rt>ラジャー</rt><rp>）</rp></ruby><br/><br/>拝承と承知しましたではやる気が伝わらないと思ったら**ラジャー**と言ってめんどくさいなぁと思われる|おねがーい<br/><br/>おねがーいとのばせば何とかなりそう|Yeah!<br/><br/>Yeaaah!といえばイエーイと答えるしかない|めがねがない<br/><br/>ないと思って頭にある時の衝撃を思え！メメントー・メガネー|
 | ![](images\09_IMG_4345_初老.png)| ![](images\10_IMG_4337_resilience.png)| ![](images\11_IMG_4349_大団円.png)| ![](images\12_IMG_4337_come_on.png)|
 |初老<br/><br/>初老だからしょうがないんですよね|Resilience<br/><br/>困難や逆境に直面してもそれに屈せず、自らの力で状況を立て直すこと、現状精一杯だけど誠心誠意立て直したい|大団円<br/><br/>演劇やドラマなどの最後の場面ですべてがめでたく収まる結末のこと|Come on!<br/><br/>カモーン|
 | ![](images\13_IMG_4349_遺憾.png)| ![](images\14_PXL_20240628_100057584_really.png)| ![](images\15_PXL_20240628_100118865_how_can_i_say_no.png)| ![](images\16_PXL_20240623_052110621_sober_curious.png)|
@@ -27,9 +27,9 @@ permalink: /R.01/
 | ![](images\25_IMG_4338_hungry.png)| ![](images\26_IMG_4338_no_way.png)| ![](images\27_3_kumas_逍遥.png)| ![](images\28_IMG_4340_奥方.png)|
 |HUNGRY<br/><br/>HUNGRY? Yes I am.|No Way<br/><br/>アントニオ猪木は言わないと信じています|<ruby>逍遥<rp>（</rp><rt>しょうよう</rt><rp>）</rp></ruby><br/><br/>あちこちをぶらぶら歩くこと。散歩。英語だと**ramble**かな|<ruby>奥方<rp>（</rp><rt>おくがた</rt><rp>）</rp></ruby><br/><br/>妻の新しい呼び方の提案、細君だと違う感じがするからね|
 | ![](images\29_IMG_4340_all_right.png)| ![](images\30_3_kumas_Crème_de_la_crème.png)| ![](images\31_IMG_4349_絶好調.png)| ![](images\32_PXL_20250218_223206634_Brilliant.png)|
-|All right<br/><br/>なんでもオールライト|Crème de la crème<br/><br/>とびきりの最上のもの、フランス語|絶好調<br/><br/>いつも絶好調、でなくてもいい|Brilliant<br/><br/>ブリリアント！って言ってみたい|
+|All right<br/><br/>なんでもオールライト|Crème de la crème<br/><br/>とびきりの最上のもの、フランス語|絶好調<br/>I'm on a roll<br/><br/>いつも絶好調、でなくてもいい|Brilliant<br/><br/>ブリリアント！って言ってみたい|
 | ![](images\33_IMG_4347_オイルショック.png)| ![](images\34_IMG_4339_暑熱回避.png)| ![](images\35_IMG_4341_韜晦.png)| ![](images\36_IMG_4337_サンキュー.png)|
-|オイルショック<br/><br/>敬愛するみうらじゅん氏が赤いちゃんちゃんこを着て`おいるショック`とのたまっていました。ゆびさし確認もするそうです。|暑熱回避<br/><br/>暑熱に順化できるレベルではなくなったから、new normal下で使うことにした|<ruby>韜晦<rp>（</rp><rt>とうかい</rt><rp>）</rp></ruby><br/><br/>自分の才能・地位などを隠すこと。姿を隠すこと。今韜晦中|サンキュー Thank you<br/><br/>サンキューってなんでもなくても言ってしまう|
+|オイルショック<br/><br/>敬愛するみうらじゅん氏が赤いちゃんちゃんこを着て`おいるショック`とのたまっていました。ゆびさし確認もするそうです。|暑熱回避<br/><br/>暑熱に順化できるレベルではなくなったから、new normal下で使うことにした|<ruby>韜晦<rp>（</rp><rt>とうかい</rt><rp>）</rp></ruby><br/><br/>自分の才能・地位などを隠すこと。姿を隠すこと。今韜晦中|サンキュー<br/>Thank you<br/><br/>サンキューってなんでもなくても言ってしまう|
 | ![](images\37_PXL_20250218_223216140_fantastic.png)| ![](images\38_messages_です.png)| ![](images\39_messages_かも.png)| ![](images\40_messages_かな.png)|
 |Fantastic<br/><br/>Sooooooo fantasticって言ってみたい|です<br/><br/>（他のスタンプと一緒に使う予定**です**）|かも<br/><br/>（他のスタンプと一緒に使う**かも**）|かな<br/><br/>（他のスタンプと一緒に使う**かな**）|
 
@@ -38,7 +38,7 @@ permalink: /R.01/
 GOOD
 LOVE
 NICE
-Rogrer
+<ruby>Rogrer<rp>（</rp><rt>ラジャー</rt><rp>）</rp></ruby>
 おねがーい
 Yeah!
 めがねがない
@@ -64,12 +64,12 @@ No Way
 <ruby>奥方<rp>（</rp><rt>おくがた</rt><rp>）</rp></ruby>
 All right
 Crème de la crème
-絶好調
+絶好調<br/>I'm on a roll
 Brilliant
 オイルショック
 暑熱回避
 <ruby>韜晦<rp>（</rp><rt>とうかい</rt><rp>）</rp></ruby>
-サンキュー Thank you
+サンキュー<br/>Thank you
 Fantastic
 です
 かも
