@@ -27,15 +27,15 @@ permalink: /R.02/
 | ![](images\25_IMG_4337_hope.png)| ![](images\26_PXL_20240628_100021899_風雲急を告げている.png)| ![](images\27_2_kumas_月に叢雲、花に風.png)| ![](images\28_2_kumas_holiday_feeling.png)|
 |HOPE<br/><br/>WishでなくHopeね|風雲急を告げている<br/><br/>最近はトイレが近いから|月に<ruby>叢雲<rp>（</rp><rt>ムラクモ</rt><rp>）</rp></ruby>、花に風<br/><br/>好事魔多し的なこと|we have holiday feeling<br/><br/>働いてないので毎日お休み気分|
 | ![](images\29_2_kumas_i_need_sleep.png)| ![](images\30_IMG_4348_まだまにあう.png)| ![](images\31_IMG_4349_蓋然性.png)| ![](images\32_IMG_4338_忽せにできない.png)|
-|i need sleep<br/><br/>ねむたーい|まだまにあう<br/><br/>温暖化のPoint of no returnのことを思っています|<ruby>蓋然性<rp>（</rp><rt>がいぜんせい</rt><rp>）</rp></ruby><br/><br/>蓋然性と可能性を使い分けるできた人アピール|<ruby>忽<rp>（</rp><rt>ゆるが</rt><rp>）</rp></ruby>せにできない<br/><br/>ものごとをいい加減にできない|
+|I need sleep<br/><br/>ねむたーい|まだまにあう<br/><br/>温暖化のPoint of no returnのことを思っています|<ruby>蓋然性<rp>（</rp><rt>がいぜんせい</rt><rp>）</rp></ruby>がある<br/><br/>蓋然性と可能性を使い分けるできた人アピール|<ruby>忽<rp>（</rp><rt>ゆるが</rt><rp>）</rp></ruby>せにできない<br/><br/>ものごとをいい加減にできない|
 | ![](images\33_IMG_4337_教えを賜りたく存じます.png)| ![](images\34_PXL_20240628_100118865_おみやげありがとう.png)| ![](images\35_messages_ございます.png)| ![](images\36_IMG_4336_忘れてた.png)|
-|教えを賜りたく存じます<br/><br/>わかんないことはAIに優しく教えてもらいたい|おみやげありがとう<br/><br/>お土産うれしいです|ございます<br/><br/>（他のスタンプと組み合わせて使う予定）|忘れてた<br/><br/>みんな忘れちゃおーっと|
+|教えを賜りたく存じます<br/><br/>わかんないことはAIに優しく教えてもらいたい|おみやげありがとう<br/><br/>お土産うれしいです|ございます<br/><br/>（他のスタンプと組み合わせて使う予定で**ございま～す**）|忘れてた<br/><br/>みんな忘れちゃおーっと|
 | ![](images\37_IMG_4336_食べ過ぎないこと.png)| ![](images\38_IMG_4341_あとでもいいよね.png)| ![](images\39_IMG_4337_think_positive.png)| ![](images\40_IMG_4349_ないものはない.png)|
 |食べ過ぎないこと<br/><br/>私をコントロール、きっと悟りに近づける|あとでもいいよね？<br/><br/>今しなくていいことは今しない、今日しなければならない仕事も明日にまわしちゃえ|Think Positive<br/><br/>Jacques Attaliが述べている、**私**が参加すれば**きっとうまくいく**|ないものはない<br/><br/>ないことを証明するのは難しいことが多いけど、証明なしでも言い切っちゃう強さを持ちたいな⇒いらないか|
 
 <!--
 we have holiday feeling
-i need sleep
+I need sleep
 月に<ruby>叢雲<rp>（</rp><rt>ムラクモ</rt><rp>）</rp></ruby>、花に風
 don't repeat yourself
 うまい
@@ -61,7 +61,7 @@ PEAK
 はて？
 まだまにあう
 ないものはない
-<ruby>蓋然性<rp>（</rp><rt>がいぜんせい</rt><rp>）</rp></ruby>
+<ruby>蓋然性<rp>（</rp><rt>がいぜんせい</rt><rp>）</rp></ruby>がある
 ございます
 うまいですね
 時間調整

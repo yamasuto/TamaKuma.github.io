@@ -25,7 +25,7 @@ permalink: /R.01/
 | ![](images\21_IMG_4342_ひねもすのたり.png)| ![](images\22_PXL_20240628_100057584_文句ばっか.png)| ![](images\23_IMG_4343_自分転換.png)| ![](images\24_IMG_4343_パラダイムシフト.png)|
 |ひねもすのたり<br/><br/>「朝から晩まで」という意味の“ひねもす”、「のどかにゆったり」という意味の“のたり”の複合語。もしくは平塚にある薬局の名前|Tons of Nagging<br/>文句ばっか<br/><br/>tons of naggingのNAGは文句やブーブーいうこと<br/>NAGGING前に3秒待って！|自分転換<br/><br/>気分も自分も転換すればいい|<ruby>パラダイムシフト<rp>（</rp><rt>paradigm shift</rt><rp>）</rp></ruby><br/><br/>意味自体が変わること<br/>沢山あること、大きいことが良いこととされる価値観は転換したい|
 | ![](images\25_IMG_4338_hungry.png)| ![](images\26_IMG_4338_no_way.png)| ![](images\27_3_kumas_逍遥.png)| ![](images\28_IMG_4340_奥方.png)|
-|HUNGRY<br/><br/>HUNGRY? Yes I am.|No Way<br/><br/>アントニオ猪木は言わないと信じています|<ruby>逍遥<rp>（</rp><rt>しょうよう</rt><rp>）</rp></ruby><br/><br/>あちこちをぶらぶら歩くこと。散歩。英語だと**ramble**かな|<ruby>奥方<rp>（</rp><rt>おくがた</rt><rp>）</rp></ruby><br/><br/>妻の新しい呼び方の提案、細君だと違う感じがするからね|
+|HUNGRY<br/><br/>HUNGRY? Yes I am.|No Way<br/><br/>アントニオ猪木は言わないと信じています|<ruby>逍遥<rp>（</rp><rt>しょうよう</rt><rp>）</rp></ruby>にいきましょうよう<br/><br/>あちこちをぶらぶら歩くこと。散歩。英語だと**ramble**かな|<ruby>奥方<rp>（</rp><rt>おくがた</rt><rp>）</rp></ruby><br/><br/>妻の新しい呼び方の提案、細君だと違う感じがするからね|
 | ![](images\29_IMG_4340_all_right.png)| ![](images\30_3_kumas_Crème_de_la_crème.png)| ![](images\31_IMG_4349_絶好調.png)| ![](images\32_PXL_20250218_223206634_Brilliant.png)|
 |All right<br/><br/>なんでもオールライト|Crème de la crème<br/><br/>とびきりの最上のもの、フランス語|絶好調<br/>I'm on a roll<br/><br/>いつも絶好調、でなくてもいい|Brilliant<br/><br/>ブリリアント！って言ってみたい|
 | ![](images\33_IMG_4347_オイルショック.png)| ![](images\34_IMG_4339_暑熱回避.png)| ![](images\35_IMG_4341_韜晦.png)| ![](images\36_IMG_4337_サンキュー.png)|
@@ -60,7 +60,7 @@ Tons of Nagging<br/>文句ばっか
 <ruby>パラダイムシフト<rp>（</rp><rt>paradigm shift</rt><rp>）</rp></ruby>
 HUNGRY
 No Way
-<ruby>逍遥<rp>（</rp><rt>しょうよう</rt><rp>）</rp></ruby>
+<ruby>逍遥<rp>（</rp><rt>しょうよう</rt><rp>）</rp></ruby>にいきましょうよう
 <ruby>奥方<rp>（</rp><rt>おくがた</rt><rp>）</rp></ruby>
 All right
 Crème de la crème
