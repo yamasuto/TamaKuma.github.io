@@ -1,5 +1,5 @@
 ---
-title: 多摩クマ R.02.1 / TAMA-KUMA R0.2.1
+title: 多摩クマ R.02.1 / TAMA-KUMA R.02.1
 layout: default
 permalink: /R.02/
 ---
