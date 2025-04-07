@@ -21,9 +21,9 @@ permalink: /R.04/
 | ![](images\13_IMG_4348_impressive.png)| ![](images\14_IMG_4348_incredible.png)| ![](images\15_IMG_4348_magnificent.png)| ![](images\16_IMG_4344_楽し_terrific.png)|
 |Impressive<br/><br/>ニュースでアメリカの野球選手の調子がインプレッシブだって広報担当が言ってた|Incredible<br/><br/>赤い全身タイツにインフォメーションセンターのマーク|Magnificent<br/><br/>マグニフィカントとマグニチュードは似ているかな、間違えそう|Terrific<br/><br/>テリブルと聞き間違えそう|
 | ![](images\17_IMG_4344_楽し_splendid.png)| ![](images\18_IMG_4344_楽し_outstanding.png)| ![](images\19_IMG_4344_楽し_exceptional.png)| ![](images\20_IMG_4345_so_far_so_good.png)|
-|Splendid<br/><br/>山下達郎の曲みたい|Outstanding<br/><br/>ルー語で使っていそう、打たれる釘はアウトスタンディング|Exceptional<br/><br/>状況を選ばないと、使うの難しいな|So far, so good<br/><br/>とりあえずいい感じでもこの後はどうなるかわかんないな|
+|Splendid<br/><br/>山下達郎さんの曲みたい|Outstanding<br/><br/>ルー語で使っていそう<br/>打たれる釘はアウトスタンディング|Exceptional<br/><br/>状況を選ばないと、使うの難しいな|So far, so good<br/><br/>とりあえずいい感じでもこの後はどうなるかわかんないな|
 | ![](images\21_IMG_4345_Not_bad.png)| ![](images\22_IMG_4345_Romantic.png)| ![](images\23_IMG_4345_so_smart.png)| ![](images\24_IMG_4337_Renaissance.png)|
-|Not bad<br/><br/>悪くないって悪いほうよりの良いのことじゃないな|Romantic<br/><br/>ロマンティックな感じで進めたい|So smart<br/><br/>Smartだったことないな|<ruby>Renaissance<rp>（</rp><rt>ルネッサーンス</rt><rp>）</rp></ruby><br/><br/><br/>水飲むときにも声に出してみると気分がいい|
+|Not bad<br/><br/>悪くないって悪いほうよりの良いのことじゃないな|Romantic<br/><br/>ロマンティックな感じで進めたい|So smart<br/><br/>Smartだったことないな|<ruby>Renaissance<rp>（</rp><rt>ルネッサーンス</rt><rp>）</rp></ruby><br/><br/><br/>水飲むときにも声に出してみると気分がいい<br/>乾杯といわずルネサーンスと言ってみる|
 | ![](images\25_IMG_4337_ブラボー.png)| ![](images\26_IMG_4337_否やはない.png)| ![](images\27_IMG_4337_太平に入る.png)| ![](images\28_IMG_4337_前向きスパイラル.png)|
 |ブラボー<br/><br/>bravo bravi brava brave<br/>後ろにつづく名詞によって変えていきたい|<ruby>否<rp>（</rp><rt>いな</rt><rp>）</rp></ruby><br/>やはない<br/><br/>同意する、異議なし|太平に入る<br/><br/>吾輩は猫である の最後のところにも出てくる|前向きスパイラル<br/><br/>倒れるなら前向きで|
 | ![](images\29_PXL_20250218_223206634_だね.png)| ![](images\30_IMG_4340_善哉.png)| ![](images\31_IMG_4340_邯鄲の枕.png)| ![](images\32_IMG_4340_今地球にいる.png)|
