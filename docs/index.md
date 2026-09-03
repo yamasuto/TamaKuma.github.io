@@ -58,3 +58,15 @@ layout: default
 [LINE STOREのページ](https://store.line.me/emojishop/product/67d3cbb06d0b246b2d83a722/ja)
 
 [Emoji.01の説明](Emoji.01)
+
+## Emoji.02
+
+![Emoji.02 Tab](Emoji.02\images\00_tab_w960xh740.png)
+
+救援を求める言葉と肯定する言葉などの絵文字
+
+SOS、 ピンチ、 お願い、 良、 好、 祝、 寿、 喜、 福、 賀、 楽、 吉、 見事、 大変など
+
+<!-- [LINE STOREのページ](https://store.line.me/emojishop/product/67d3cbb06d0b246b2d83a722/ja) -->
+
+[Emoji.02の説明](Emoji.02)
