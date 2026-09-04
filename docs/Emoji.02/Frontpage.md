@@ -19,7 +19,7 @@ permalink: /Emoji.02/
 | ![](images\11_うまい_IMG_4342.png)| ![](images\12_いいね_IMG_4344.png)| ![](images\13_えー_IMG_4345.png)| ![](images\14_祝_IMG_4347.png)| ![](images\15_寿_PXL_20240628_095956204.png)|
 |うまい<br/><br/>Good|いいね<br/><br/>NICE|えー<br/><br/>話すときに間を埋めるためのつなぎ言葉をフィラーと呼ぶ|祝<br/><br/>Congratulations|寿<br/><br/>Kotobuki|
 | ![](images\16_喜_PXL_20240628_100008457.png)| ![](images\17_福_PXL_20240628_100021899.png)| ![](images\18_賀_PXL_20240628_100057584.png)| ![](images\19_楽_PXL_20240628_100118865.png)| ![](images\20_吉_PXL_20250218_223201760.png)|
-|喜<br/><br/>joy|福<br/><br/>Fortune|賀<br/><br/>めでたい事を喜ぶ|楽<br/><br/>easy|吉<br/><br/>luckiness|
+|喜<br/><br/>joy|福<br/><br/>逆さにした「福」の字は幸運の訪れを象徴しています|賀<br/><br/>めでたい事を喜ぶ|楽<br/><br/>easy|吉<br/><br/>luckiness|
 | ![](images\21_見事_PXL_20250218_223206634.png)| ![](images\22_ごめん_PXL_20250218_223216140.png)| ![](images\23_できた_PXL_20250218_223224922.png)| ![](images\24_おわり_IMG_4350.png)| ![](images\25_RUN_IMG_4351.png)|
 |見事<br/><br/>Splendid|ごめん<br/><br/>sorry|できた<br/><br/>It's done|おわり<br/><br/>The End|RUN<br/><br/>走りたい|
 | ![](images\26_FUN_IMG_4352.png)| ![](images\27_Wow!_IMG_4353.png)| ![](images\28_Oops!_IMG_4354.png)| ![](images\29_Boo!_IMG_4355.png)| ![](images\30_Good_IMG_4356.png)|
