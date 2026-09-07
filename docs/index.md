@@ -67,6 +67,6 @@ layout: default
 
 SOS、 ピンチ、 お願い、 良、 好、 祝、 寿、 喜、 福、 賀、 楽、 吉、 見事、 大変など
 
-<!-- [LINE STOREのページ](https://store.line.me/emojishop/product/67d3cbb06d0b246b2d83a722/ja) -->
+[LINE STOREのページ](https://store.line.me/emojishop/product/6a9e1842d17db660b850290e/ja)
 
 [Emoji.02の説明](Emoji.02)
