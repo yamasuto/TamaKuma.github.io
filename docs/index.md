@@ -70,3 +70,17 @@ SOS、 ピンチ、 お願い、 良、 好、 祝、 寿、 喜、 福、 賀�
 [LINE STOREのページ](https://store.line.me/emojishop/product/6a9e1842d17db660b850290e/ja)
 
 [Emoji.02の説明](Emoji.02)
+
+## Emoji.03
+
+![Emoji.03 Tab](Emoji.03\images\00_Tab_w960xh740_PXL_20240628_100118865_pink丸.png)
+
+どうぞ、 いえいえ、 ゆっくり、 わからない、 そうなの？、 うんうん、 そっか、 もちろん、 おお、 どこ？、 それで？、 そうそう、 どうしたの？、 すみません、 すごい、 だめ、 やるね、 いいなー、 いただきます、 ごちそうさま、 やった、 なんと、 あらま、 げっ、 きたー、 ありがとう、 どういたしまして、 がっかり、 ちーん など
+
+リアクションで使いそうなひらがなか、カタカナの絵文字
+
+<!--
+[LINE STOREのページ](https://store.line.me/emojishop/product/6a9e1842d17db660b850290e/ja)
+-->
+
+[Emoji.03の説明](Emoji.03)
